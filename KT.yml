@@ -1,6 +1,10 @@
 team: KT
 
+<<<<<<< HEAD
 manager: 유유유
+=======
+manager: 충돌내는중
+>>>>>>> 338b2da500ddbc2c14dd2fe23e298592c60c5966
 
 members:
 - 고영표
